@@ -1,6 +1,4 @@
 # chapter10
-# chapter10
-
 韩顺平 java零基础
 第二阶段第10章的内容
 包括 ：
