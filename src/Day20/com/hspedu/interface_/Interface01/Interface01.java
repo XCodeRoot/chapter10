@@ -11,6 +11,7 @@ public class Interface01 {
         Computer computer = new Computer();//创建计算机
 
         computer.work(phone);//把手机接入计算机
+        //接口的多态性
         computer.work(camera);//把相机接入计算机
 
     }
